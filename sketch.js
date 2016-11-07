@@ -1,7 +1,7 @@
 var links = [];
 
 function setup() {
-  createCanvas(1000, 1500);
+  createCanvas(800, 400);
   background(0);
 }
 
